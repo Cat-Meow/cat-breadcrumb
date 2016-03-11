@@ -1,5 +1,5 @@
 {
-  "name": "salt-breadcrumb",
+  "name": "rs-breadcrumb",
   "version": "0.1.0",
   "description": "",
   "main": "./dist/breadcrumb.js",
