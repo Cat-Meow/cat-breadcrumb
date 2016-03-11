@@ -7,7 +7,7 @@ class BreadCrumb extends Component {
     }
 
     static defaultProps = {
-        prefixName: 'cat'
+        prefixName: 'salt'
     }
 
     _renderContent() {
